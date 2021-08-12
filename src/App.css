@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.services,
+.products,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.services {
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fblue-mesh-gradient-blurred-motion-abstract-background-picture-id1185747322%3Fk%3D6%26m%3D1185747322%26s%3D612x612%26w%3D0%26h%3DGmD-FIJQnscD4lZwgLJojdXaFZR1FLxhAATTwM0NAOE%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fgradient-background&tbnid=T3HzW1UAyjIiGM&vet=12ahUKEwj66Jfq0KfyAhUsoEsFHf0_BH8QMygSegUIARD7AQ..i&docid=X2G5DnG56F5-iM&w=612&h=344&q=gradient%20background&hl=en&ved=2ahUKEwj66Jfq0KfyAhUsoEsFHf0_BH8QMygSegUIARD7AQ');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.products {
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fblue-mesh-gradient-blurred-motion-abstract-background-picture-id1185747322%3Fk%3D6%26m%3D1185747322%26s%3D612x612%26w%3D0%26h%3DGmD-FIJQnscD4lZwgLJojdXaFZR1FLxhAATTwM0NAOE%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fgradient-background&tbnid=T3HzW1UAyjIiGM&vet=12ahUKEwj66Jfq0KfyAhUsoEsFHf0_BH8QMygSegUIARD7AQ..i&docid=X2G5DnG56F5-iM&w=612&h=344&q=gradient%20background&hl=en&ved=2ahUKEwj66Jfq0KfyAhUsoEsFHf0_BH8QMygSegUIARD7AQ');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.sign-up {
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fblue-mesh-gradient-blurred-motion-abstract-background-picture-id1185747322%3Fk%3D6%26m%3D1185747322%26s%3D612x612%26w%3D0%26h%3DGmD-FIJQnscD4lZwgLJojdXaFZR1FLxhAATTwM0NAOE%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fgradient-background&tbnid=T3HzW1UAyjIiGM&vet=12ahUKEwj66Jfq0KfyAhUsoEsFHf0_BH8QMygSegUIARD7AQ..i&docid=X2G5DnG56F5-iM&w=612&h=344&q=gradient%20background&hl=en&ved=2ahUKEwj66Jfq0KfyAhUsoEsFHf0_BH8QMygSegUIARD7AQ');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
